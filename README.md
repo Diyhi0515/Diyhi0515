@@ -109,13 +109,21 @@ Focused on clean architecture, backend services, database modeling and system in
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diyhi0515&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diyhi0515&theme=radical" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyhi0515&layout=compact&theme=radical&hide_border=true" />
+  <br/><br/>
 
-  <br/>
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diyhi0515&theme=radical" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diyhi0515&theme=radical" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diyhi0515&theme=radical&hide_border=true" />
+  <br/><br/>
+
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Diyhi0515&theme=radical" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Diyhi0515&theme=radical&utcOffset=-4" />
+
+  <br/><br/>
+
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Diyhi0515&theme=radical&hide_border=true" />
 
 </div>
 
