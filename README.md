@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Helen B 👩‍💻✨
+# Hi, I'm Helen 👩‍💻✨
 
-### System Engineering Graduate | Full Stack Developer
+### 🌸 Full Stack Developer | Backend & Cloud Enthusiast 🚀
 
 I build useful, elegant and scalable software with a focus on  
 **backend, web development, APIs, databases, cloud tools and clean user experiences.**
