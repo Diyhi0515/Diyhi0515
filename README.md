@@ -56,18 +56,6 @@ I build useful, elegant and scalable software with a focus on
 
 ---
 
-## 🚀 Featured Projects
-
-### 🥩 Churrasquería Roberto
-
-Restaurant management system built with **Laravel, Vue, Inertia and Tailwind CSS**.  
-Includes roles, permissions, products, orders, audit logs, quick search and administrative views.
-
-**Tech:** Laravel · Vue.js · Inertia.js · Tailwind CSS · MySQL · Spatie Roles
-
-
----
-
 ## 🌷 Currently Learning
 
 <div align="center">
