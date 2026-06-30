@@ -109,9 +109,13 @@ Focused on clean architecture, backend services, database modeling and system in
 
 <div align="center">
 
-![Helen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diyhi0515\&show_icons=true\&theme=radical\&hide_border=true)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diyhi0515&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diyhi0515\&layout=compact\&theme=radical\&hide_border=true)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyhi0515&layout=compact&theme=radical&hide_border=true" />
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diyhi0515&theme=radical&hide_border=true" />
 
 </div>
 
