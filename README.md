@@ -8,7 +8,7 @@ I build useful, elegant and scalable software with a focus on
 **backend, web development, APIs, databases, cloud tools and clean user experiences.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Diyhi0515-2E3440?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Diyhi0515)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Helen_Baldelomar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helen-baldelomar-alvarez-01a631346)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Helen_Baldelomar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helen-baldelomar)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helendiyhana03@gmail.com)
 
 </div>
