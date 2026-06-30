@@ -78,42 +78,6 @@ My professional path is focused on **Full Stack Development**, with a special in
 
 ## 🚀 Featured Projects
 
-### 🥩 Churrasquería Roberto
-
-Web system for restaurant management built with **Laravel, Vue, Inertia and Tailwind CSS**.
-Focused on roles, permissions, products, orders, audit logs, quick search, administrative views and user experience improvements.
-
-**Main technologies:** Laravel, Vue.js, Inertia.js, Tailwind CSS, MySQL, Spatie Roles.
-
----
-
-### 🌆 Santa Cruz Conecta
-
-Citizen service portal inspired by modern municipal platforms.
-Includes modules for payments, procedures, parking, claims, public services and citizen information.
-
-**Main technologies:** Next.js, React, TypeScript, Tailwind CSS, Framer Motion.
-
----
-
-### 🐄 Vacaliza
-
-Work related to software QA, user experience review, subscription payment flow analysis and QR payment integration.
-Focused on authentication, roles, frontend/backend behavior, deployment and error documentation.
-
-**Main areas:** QA, backend analysis, frontend review, QR payments, subscriptions, deployment.
-
----
-
-### 📱 OnePass MX
-
-Mobile application developed with **Ionic + Capacitor** and backend with **Strapi**.
-Worked on mobile features, UI improvements, integrations, Android release preparation and deployment support.
-
-**Main technologies:** Ionic, Capacitor, Strapi, Android, JavaScript, CSS.
-
----
-
 ### 💳 Accounts Receivable System
 
 Microservices-based system for receivables, payments, audit logs, notifications and authorization flows.
