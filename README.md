@@ -95,13 +95,6 @@ Focused on clean architecture, backend services, database modeling and system in
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-2E3440?style=for-the-badge\&logo=openai\&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2E3440?style=for-the-badge\&logo=dependabot\&logoColor=white)
 
-* Clean Architecture
-* Hexagonal Architecture
-* Spring Boot with GraphQL
-* Microservices
-* Cloud deployments
-* DevOps practices
-* AI applied to business solutions
 
 ---
 
