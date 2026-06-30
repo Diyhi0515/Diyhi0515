@@ -2,7 +2,7 @@
 
 # Hi, I'm Helen B 👩‍💻✨
 
-### System Engineering Graduate | Full Stack Developer | Backend & Cloud Enthusiast
+### Full Stack Developer | Backend & Cloud Enthusiast
 
 💗 Building useful, elegant and scalable software with creativity and purpose.
 🚀 Passionate about web development, backend architecture, APIs, databases, cloud solutions and modern digital products.
@@ -13,7 +13,7 @@
 
 ## 🌸 About Me
 
-I am a **System Engineering graduate from Bolivia**, focused on building modern, functional and scalable software solutions.
+I am a **Software developer from Bolivia**, focused on building modern, functional and scalable software solutions.
 
 I enjoy working on projects that combine **clean design, solid backend logic, databases, APIs, cloud infrastructure and user experience**.
 
@@ -109,21 +109,13 @@ Focused on clean architecture, backend services, database modeling and system in
 
 <div align="center">
 
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diyhi0515&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Diyhi0515&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyhi0515&layout=compact&theme=radical&hide_border=true" />
 
   <br/><br/>
 
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diyhi0515&theme=radical" />
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diyhi0515&theme=radical" />
-
-  <br/><br/>
-
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Diyhi0515&theme=radical" />
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Diyhi0515&theme=radical&utcOffset=-4" />
-
-  <br/><br/>
-
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Diyhi0515&theme=radical&hide_border=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Diyhi0515&theme=radical&hide_border=true" />
 
 </div>
 
