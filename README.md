@@ -9,7 +9,6 @@ I build useful, elegant and scalable software with a focus on
 
 [![GitHub](https://img.shields.io/badge/GitHub-Diyhi0515-2E3440?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Diyhi0515)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Helen_Baldelomar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helen-baldelomar-alvarez-01a631346)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF69B4?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helendiyhana03@gmail.com)
 
 </div>
@@ -66,32 +65,6 @@ Includes roles, permissions, products, orders, audit logs, quick search and admi
 
 **Tech:** Laravel · Vue.js · Inertia.js · Tailwind CSS · MySQL · Spatie Roles
 
----
-
-### 🌆 Santa Cruz Conecta
-
-Citizen service portal inspired by modern municipal platforms.  
-Includes modules for payments, procedures, parking, claims, public services and citizen information.
-
-**Tech:** Next.js · React · TypeScript · Tailwind CSS · Framer Motion
-
----
-
-### 🐄 Vacaliza
-
-Software QA, user experience review and subscription payment flow analysis with QR integration.  
-Focused on authentication, roles, frontend/backend behavior, deployment and error documentation.
-
-**Areas:** QA · Backend Analysis · Frontend Review · QR Payments · Subscriptions
-
----
-
-### 📱 OnePass MX
-
-Mobile application developed with **Ionic + Capacitor** and backend with **Strapi**.  
-Worked on mobile features, UI improvements, integrations and Android release preparation.
-
-**Tech:** Ionic · Capacitor · Strapi · Android · JavaScript · CSS
 
 ---
 
