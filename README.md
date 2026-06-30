@@ -109,13 +109,28 @@ Focused on clean architecture, backend services, database modeling and system in
 
 <div align="center">
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Diyhi0515&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Diyhi0515&theme=radical" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diyhi0515&theme=radical" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diyhi0515&theme=radical" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Diyhi0515&theme=radical&utcOffset=-4" />
+    </td>
+  </tr>
+</table>
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyhi0515&layout=compact&theme=radical&hide_border=true" />
+<br/>
 
-  <br/><br/>
-
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Diyhi0515&theme=radical&hide_border=true" />
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=Diyhi0515&theme=radical&hide_border=true" />
 
 </div>
 
